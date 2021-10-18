@@ -17,7 +17,7 @@
 
 /**
  *
- * @author leannekim. Dec 5, 2019.
+ * @author Minjae Kim. 
  */
 public class GameOfLife {
 
