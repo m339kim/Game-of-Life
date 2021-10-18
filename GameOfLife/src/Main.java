@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.io.*;
 /**
  *
- * @author leannekim. Dec 5, 2019.
+ * @author Minjae Kim.
  */
 
 /* GameOfLife GUI. Uses GameOfLife class to play the game, then displays the matching user interface. */
